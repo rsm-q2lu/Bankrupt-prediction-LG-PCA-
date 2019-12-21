@@ -1,4 +1,4 @@
-# Bankrupt prediction-LG & PCA
+# Bankrupt prediction-PCA & LG
 
 Load bankruptcy data from UCI :  5thYear.arff 
 
@@ -20,7 +20,7 @@ PCA
 #### PCA is useful in large dimension data and prevent overfitting. 
 
 
-# Face Recognition-PCA
+# Face Recognition-PCA & SVM
 
 PCA
 -------------------
