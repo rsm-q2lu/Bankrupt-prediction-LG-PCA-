@@ -27,6 +27,6 @@ PCA
 
 #### First, we use PCA to compressed 1000+ features to 10~500 principal components. [br] Then, we used GridSearchCV to find the best estimater of the SVM. [br] Next, we combine each PCA result and the SVM to calculate the F1 score. And to find the best number of pca components. [br] The result showed that 300 components are the best. 
 
-#### Here we the eigenfaces become eigenvectors and we can visulize them. Actually, PCA did a great job in face recognition.
+#### Here the eigenfaces become eigenvectors and we can visulize them. Actually, PCA did a great job in face recognition.
 
 
